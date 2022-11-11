@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "name": "Basil",
+        "category": "vegetables",
+        "price": 40,
+        "image": "basil.png"
+    },
+    {
+        "id": 2,
+        "name": "Bean sprout",
+        "category": "vegetables",
+        "price": 40,
+        "image": "bean_sprout.png"
+    },
+    {
+        "id": 3,
+        "name": "Carrot",
+        "category": "vegetables",
+        "price": 40,
+        "image": "carrot.png"
+    },
+    {
+        "id": 4,
+        "name": "Chili",
+        "category": "vegetables",
+        "price": 40,
+        "image": "chili.png"
+    },
+    {
+        "id": 5,
+        "name": "Lemon",
+        "category": "vegetables",
+        "price": 40,
+        "image": "lemon.png"
+    },
+    {
+        "id": 6,
+        "name": "Garlic",
+        "category": "vegetables",
+        "price": 40,
+        "image": "garlic.png"
+    },
+    {
+        "id": 7,
+        "name": "Tomato",
+        "category": "vegetables",
+        "price": 40,
+        "image": "tomato.png"
+    },
+    {
+        "id": 8,
+        "name": "Ginger",
+        "category": "vegetables",
+        "price": 40,
+        "image": "ginger.png"
+    },
+    {
+        "id": 9,
+        "name": "Cucumber",
+        "category": "vegetables",
+        "price": 40,
+        "image": "cucumber.png"
+    },
+    {
+        "id": 10,
+        "name": "Potato",
+        "category": "vegetables",
+        "price": 40,
+        "image": "potato.png"
+    },
+    {
+        "id": 11,
+        "name": "Chicken breast",
+        "category": "meat",
+        "price": 40,
+        "image": "chicken_breast.png"
+    },
+    {
+        "id": 12,
+        "name": "Chicken leg",
+        "category": "meat",
+        "price": 40,
+        "image": "chicken_legs.png"
+    },
+    {
+        "id": 13,
+        "name": "Chicken wing",
+        "category": "meat",
+        "price": 40,
+        "image": "chicken_wings.png"
+    },
+    {
+        "id": 14,
+        "name": "Lamb chop",
+        "category": "meat",
+        "price": 40,
+        "image": "lamb_chop.png"
+    },
+    {
+        "id": 15,
+        "name": "Lamb neck",
+        "category": "meat",
+        "price": 40,
+        "image": "lamb_neck.png"
+    },
+    {
+        "id": 16,
+        "name": "Diced beef",
+        "category": "meat",
+        "price": 40,
+        "image": "diced_beef.png"
+    },
+    {
+        "id": 17,
+        "name": "Diced mutton",
+        "category": "meat",
+        "price": 40,
+        "image": "diced_mutton.png"
+    },
+    {
+        "id": 18,
+        "name": "Pork belly",
+        "category": "meat",
+        "price": 40,
+        "image": "pork_belly.png"
+    },
+    {
+        "id": 19,
+        "name": "Beef",
+        "category": "meat",
+        "price": 40,
+        "image": "beef.png"
+    },
+    {
+        "id": 20,
+        "name": "Newzealand mussel",
+        "category": "seafood",
+        "price": 40,
+        "image": "newzealand_mussel.png"
+    },
+    {
+        "id": 21,
+        "name": "Chilean mussel",
+        "category": "seafood",
+        "price": 40,
+        "image": "chilean_mussel.png"
+    },
+    {
+        "id": 22,
+        "name": "Abalone",
+        "category": "seafood",
+        "price": 40,
+        "image": "abalone.png"
+    },
+    {
+        "id": 23,
+        "name": "Hotate",
+        "category": "seafood",
+        "price": 40,
+        "image": "hotate.png"
+    },
+    {
+        "id": 24,
+        "name": "Lobster",
+        "category": "seafood",
+        "price": 40,
+        "image": "lobster.png"
+    },
+    {
+        "id": 25,
+        "name": "Horse crab",
+        "category": "seafood",
+        "price": 40,
+        "image": "horse_crab.png"
+    },
+    {
+        "id": 26,
+        "name": "Oyster",
+        "category": "seafood",
+        "price": 40,
+        "image": "oyster.png"
+    },
+    {
+        "id": 27,
+        "name": "Splendid squid",
+        "category": "seafood",
+        "price": 40,
+        "image": "splendid_squid.png"
+    },
+    {
+        "id": 28,
+        "name": "Sardine",
+        "category": "seafood",
+        "price": 40,
+        "image": "sardine.png"
+    },
+    {
+        "id": 29,
+        "name": "White seabass fillet",
+        "category": "seafood",
+        "price": 40,
+        "image": "white_seabass.png"
+    }
+]
