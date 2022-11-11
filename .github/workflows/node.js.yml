@@ -28,3 +28,4 @@ jobs:
         cache: 'pnpm'
     - run: pnpm ci
     - run: pnpm build
+    - run: pnpm test
