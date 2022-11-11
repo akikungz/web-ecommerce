@@ -18,21 +18,31 @@ export default () => {
 
                 <div className="collapse navbar-collapse d-lg-flex justify-content-lg-between" id="navbarNavDropdown">
                     <ul className="navbar-nav">
-                        <li className="nav-item"><a href="javascript:void()" className="nav-link active">Home</a></li>
-                        <li className="nav-item"><a href="javascript:void()" className="nav-link">Vegetable</a></li>
-                        <li className="nav-item"><a href="javascript:void()" className="nav-link">Meat & Beef</a></li>
-                        <li className="nav-item"><a href="javascript:void()" className="nav-link">Seafood</a></li>
+                        <li className="nav-item">
+                            <a href="javascript:void()" className="nav-link active">Home</a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="javascript:void()" className="nav-link">Vegetable</a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="javascript:void()" className="nav-link">Meat & Beef</a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="javascript:void()" className="nav-link">Seafood</a>
+                        </li>
                     </ul>
                     <ul className="navbar-nav">
                         <li className="nav-item dropstart">
-                            <a href="#" className="nav-link active d-flex align-items-center dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a href="#" className="nav-link active d-flex align-items-center dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
                                 <span>Cart</span>
                                 <span className="badge bg-danger rounded-circle" style={{
                                     marginLeft: "3px"
-                                }}>{ cartItems.length }</span>
+                                }}>{cartItems.length}</span>
                             </a>
-                            <ul class="dropdown-menu w-auto dropdown-menu-dark">
-                                { cartItems.length > 0 ? cartItems.map(item => {
+                            <ul class="dropdown-menu w-auto cart-dropdown">
+                                <li className="dropdown-item-text">Your cart</li>
+                                <li className="dropdown-item-text"><hr class="dropdown-divider" /></li>
+                                {cartItems.length > 0 ? cartItems.map(item => {
                                     return (
                                         <li className="dropdown-item d-flex justify-content-between align-items-center">
                                             <span style={{ marginRight: "1em" }}>{item.name}</span>
@@ -42,19 +52,19 @@ export default () => {
                                             </div>
                                         </li>
                                     )
-                                }) : <li className="dropdown-item-text">Cart is empty</li> }
+                                }) : <li className="dropdown-item-text">Cart is empty</li>}
                                 <li className="dropdown-item-text"><hr class="dropdown-divider" /></li>
                                 <li className="dropdown-item-text">
                                     <div className="d-flex justify-content-between align-items-center">
                                         <span>Total</span>
-                                        <span className="badge bg-primary rounded-pill">{ cartPrice } ฿</span>
+                                        <span className="badge bg-primary rounded-pill">{cartPrice} ฿</span>
                                     </div>
                                 </li>
-                                { cartItems.length > 0 ? (
+                                {cartItems.length > 0 ? (
                                     <li className="dropdown-item">
                                         <button className="btn btn-primary w-100" disabled={cartItems.length > 0 ? false : true} onClick={() => dispatch(checkOut())}>Checkout</button>
                                     </li>
-                                ) : null }
+                                ) : null}
                             </ul>
                         </li>
                     </ul>

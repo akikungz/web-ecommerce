@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 224, 197);
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+            line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.cart-dropdown {
+    min-width: 250px;
+}

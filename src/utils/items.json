@@ -4,202 +4,231 @@
         "name": "Basil",
         "category": "vegetables",
         "price": 40,
-        "image": "basil.png"
+        "image": "basil.png",
+        "description": "Basil is a herb. It is used in cooking."
     },
     {
         "id": 2,
         "name": "Bean sprout",
         "category": "vegetables",
         "price": 40,
-        "image": "bean_sprout.png"
+        "image": "bean_sprout.png",
+        "description": "Bean sprout is a vegetable. It is used in cooking."
     },
     {
         "id": 3,
         "name": "Carrot",
         "category": "vegetables",
         "price": 40,
-        "image": "carrot.png"
+        "image": "carrot.png",
+        "description": "Carrot is a vegetable. It is used in cooking."
     },
     {
         "id": 4,
         "name": "Chili",
         "category": "vegetables",
         "price": 40,
-        "image": "chili.png"
+        "image": "chili.png",
+        "description": "Chili is a vegetable. It is used in cooking."
     },
     {
         "id": 5,
         "name": "Lemon",
         "category": "vegetables",
         "price": 40,
-        "image": "lemon.png"
+        "image": "lemon.png",
+        "description": "Lemon is a vegetable. It is used in cooking."
     },
     {
         "id": 6,
         "name": "Garlic",
         "category": "vegetables",
         "price": 40,
-        "image": "garlic.png"
+        "image": "garlic.png",
+        "description": "Garlic is a vegetable. It is used in cooking."
     },
     {
         "id": 7,
         "name": "Tomato",
         "category": "vegetables",
         "price": 40,
-        "image": "tomato.png"
+        "image": "tomato.png",
+        "description": "Tomato is a vegetable. It is used in cooking."
     },
     {
         "id": 8,
         "name": "Ginger",
         "category": "vegetables",
         "price": 40,
-        "image": "ginger.png"
+        "image": "ginger.png",
+        "description": "Ginger is a vegetable. It is used in cooking."
     },
     {
         "id": 9,
         "name": "Cucumber",
         "category": "vegetables",
         "price": 40,
-        "image": "cucumber.png"
+        "image": "cucumber.png",
+        "description": "Cucumber is a vegetable. It is used in cooking."
     },
     {
         "id": 10,
         "name": "Potato",
         "category": "vegetables",
         "price": 40,
-        "image": "potato.png"
+        "image": "potato.png",
+        "description": "Potato is a vegetable. It is used in cooking."
     },
     {
         "id": 11,
         "name": "Chicken breast",
         "category": "meat",
         "price": 40,
-        "image": "chicken_breast.png"
+        "image": "chicken_breast.png",
+        "description": "Chicken breast is a meat. It is used in cooking."
     },
     {
         "id": 12,
         "name": "Chicken leg",
         "category": "meat",
         "price": 40,
-        "image": "chicken_legs.png"
+        "image": "chicken_legs.png",
+        "description": "Chicken leg is a meat. It is used in cooking."
     },
     {
         "id": 13,
         "name": "Chicken wing",
         "category": "meat",
         "price": 40,
-        "image": "chicken_wings.png"
+        "image": "chicken_wings.png",
+        "description": "Chicken wing is a meat. It is used in cooking."
     },
     {
         "id": 14,
         "name": "Lamb chop",
         "category": "meat",
         "price": 40,
-        "image": "lamb_chop.png"
+        "image": "lamb_chop.png",
+        "description": "Lamb chop is a meat. It is used in cooking."
     },
     {
         "id": 15,
         "name": "Lamb neck",
         "category": "meat",
         "price": 40,
-        "image": "lamb_neck.png"
+        "image": "lamb_neck.png",
+        "description": "Lamb neck is a meat. It is used in cooking."
     },
     {
         "id": 16,
         "name": "Diced beef",
         "category": "meat",
         "price": 40,
-        "image": "diced_beef.png"
+        "image": "diced_beef.png",
+        "description": "Diced beef is a meat. It is used in cooking."
     },
     {
         "id": 17,
         "name": "Diced mutton",
         "category": "meat",
         "price": 40,
-        "image": "diced_mutton.png"
+        "image": "diced_mutton.png",
+        "description": "Diced mutton is a meat. It is used in cooking."
     },
     {
         "id": 18,
         "name": "Pork belly",
         "category": "meat",
         "price": 40,
-        "image": "pork_belly.png"
+        "image": "pork_belly.png",
+        "description": "Pork belly is a meat. It is used in cooking."
     },
     {
         "id": 19,
         "name": "Beef",
         "category": "meat",
         "price": 40,
-        "image": "beef.png"
+        "image": "beef.png",
+        "description": "Beef is a meat. It is used in cooking."
     },
     {
         "id": 20,
         "name": "Newzealand mussel",
         "category": "seafood",
         "price": 40,
-        "image": "newzealand_mussel.png"
+        "image": "newzealand_mussel.png",
+        "description": "Newzealand mussel is a seafood. It is used in cooking."
     },
     {
         "id": 21,
         "name": "Chilean mussel",
         "category": "seafood",
         "price": 40,
-        "image": "chilean_mussel.png"
+        "image": "chilean_mussel.png",
+        "description": "Chilean mussel is a seafood. It is used in cooking."
     },
     {
         "id": 22,
         "name": "Abalone",
         "category": "seafood",
         "price": 40,
-        "image": "abalone.png"
+        "image": "abalone.png",
+        "description": "Abalone is a seafood. It is used in cooking."
     },
     {
         "id": 23,
         "name": "Hotate",
         "category": "seafood",
         "price": 40,
-        "image": "hotate.png"
+        "image": "hotate.png",
+        "description": "Hotate is a seafood. It is used in cooking."
     },
     {
         "id": 24,
         "name": "Lobster",
         "category": "seafood",
         "price": 40,
-        "image": "lobster.png"
+        "image": "lobster.png",
+        "description": "Lobster is a seafood. It is used in cooking."
     },
     {
         "id": 25,
         "name": "Horse crab",
         "category": "seafood",
         "price": 40,
-        "image": "horse_crab.png"
+        "image": "horse_crab.png",
+        "description": "Horse crab is a seafood. It is used in cooking."
     },
     {
         "id": 26,
         "name": "Oyster",
         "category": "seafood",
         "price": 40,
-        "image": "oyster.png"
+        "image": "oyster.png",
+        "description": "Oyster is a seafood. It is used in cooking."
     },
     {
         "id": 27,
         "name": "Splendid squid",
         "category": "seafood",
         "price": 40,
-        "image": "splendid_squid.png"
+        "image": "splendid_squid.png",
+        "description": "Splendid squid is a seafood. It is used in cooking."
     },
     {
         "id": 28,
         "name": "Sardine",
         "category": "seafood",
         "price": 40,
-        "image": "sardine.png"
+        "image": "sardine.png",
+        "description": "Sardine is a seafood. It is used in cooking."
     },
     {
         "id": 29,
         "name": "White seabass fillet",
         "category": "seafood",
         "price": 40,
-        "image": "white_seabass.png"
+        "image": "white_seabass.png",
+        "description": "White seabass fillet is a seafood. It is used in cooking."
     }
 ]

@@ -5,6 +5,8 @@ import items from "./utils/items.json"
 import Navbar from "./components/navbar"
 import Item from "./components/item"
 
+import './assets/styles.css'
+
 export default () => {
   const category = []
   new Set(items.map(item => item.category)).forEach(item => category.push(item))
