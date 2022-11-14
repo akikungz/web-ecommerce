@@ -1,3 +1,16 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: rgb(255, 224, 197);
+    scroll-behavior: smooth;
+}
+
+#root {
+    scroll-behavior: smooth;
+}
+
 .card-body {
     display: flex;
     flex-direction: column;
