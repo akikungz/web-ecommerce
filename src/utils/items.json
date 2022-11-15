@@ -3,73 +3,73 @@
         "id": 1,
         "name": "Basil",
         "category": "vegetables",
-        "price": 100,
+        "price": 59,
         "image": "basil.png",
-        "description": "100฿ per 1kg"
+        "description": "Basil is commonly used to make basil stir fry."
     },
     {
         "id": 2,
         "name": "Bean sprout",
         "category": "vegetables",
-        "price": 40,
+        "price": 29,
         "image": "bean_sprout.png",
-        "description": "Bean sprout is a vegetable. It is used in cooking."
+        "description": "Bean sprouts are commonly used to make noodles, stir-fry, sprouted noodles, and sprouted noodles."
     },
     {
         "id": 3,
         "name": "Carrot",
         "category": "vegetables",
-        "price": 40,
+        "price": 69,
         "image": "carrot.png",
-        "description": "Carrot is a vegetable. It is used in cooking."
+        "description": "Carrots are high in vitamin A. They are commonly used to make vegetable salads or to blend into healthy carrot juice."
     },
     {
         "id": 4,
         "name": "Chili",
         "category": "vegetables",
-        "price": 40,
+        "price": 39,
         "image": "chili.png",
-        "description": "Chili is a vegetable. It is used in cooking."
+        "description": "Chilis can be used to make a lot of dishes, such as chili paste, som tam, tom yum or seafood dipping sauce."
     },
     {
         "id": 5,
         "name": "Lemon",
         "category": "vegetables",
-        "price": 40,
+        "price": 29,
         "image": "lemon.png",
-        "description": "Lemon is a vegetable. It is used in cooking."
+        "description": "Lemon is commonly used to cook to add sourness or to blend into lemon juice."
     },
     {
         "id": 6,
         "name": "Garlic",
         "category": "vegetables",
-        "price": 40,
+        "price": 22,
         "image": "garlic.png",
-        "description": "Garlic is a vegetable. It is used in cooking."
+        "description": "Garlic is commonly used for cooking to enhance the taste of food."
     },
     {
         "id": 7,
         "name": "Tomato",
         "category": "vegetables",
-        "price": 40,
+        "price": 55,
         "image": "tomato.png",
-        "description": "Tomato is a vegetable. It is used in cooking."
+        "description": "Tomatoes are popularly added in som tam salads and soups."
     },
     {
         "id": 8,
         "name": "Ginger",
         "category": "vegetables",
-        "price": 40,
+        "price": 44,
         "image": "ginger.png",
-        "description": "Ginger is a vegetable. It is used in cooking."
+        "description": "Ginger is commonly used to stir-fry or boiled into healthy ginger juice."
     },
     {
         "id": 9,
         "name": "Cucumber",
         "category": "vegetables",
-        "price": 40,
+        "price": 65,
         "image": "cucumber.png",
-        "description": "Cucumber is a vegetable. It is used in cooking."
+        "description": "Cucumber is a vegetable utensil to eat alongside the main course or to make salads."
     },
     {
         "id": 10,
@@ -77,158 +77,158 @@
         "category": "vegetables",
         "price": 40,
         "image": "potato.png",
-        "description": "Potato is a vegetable. It is used in cooking."
+        "description": "Potatoes are commonly used to make french fries or to cook."
     },
     {
         "id": 11,
         "name": "Chicken breast",
         "category": "meat",
-        "price": 40,
+        "price": 149,
         "image": "chicken_breast.png",
-        "description": "Chicken breast is a meat. It is used in cooking."
+        "description": "Chicken breast is very high in protein and is commonly used to make chicken breast smoothies or frying."
     },
     {
         "id": 12,
         "name": "Chicken leg",
         "category": "meat",
-        "price": 40,
+        "price": 200,
         "image": "chicken_legs.png",
-        "description": "Chicken leg is a meat. It is used in cooking."
+        "description": "Chicken legs are commonly fried or used to make soup."
     },
     {
         "id": 13,
         "name": "Chicken wing",
         "category": "meat",
-        "price": 40,
+        "price": 120,
         "image": "chicken_wings.png",
-        "description": "Chicken wing is a meat. It is used in cooking."
+        "description": "Chicken wings are commonly used to fry, skewer, grill."
     },
     {
         "id": 14,
         "name": "Lamb chop",
         "category": "meat",
-        "price": 40,
+        "price": 699,
         "image": "lamb_chop.png",
-        "description": "Lamb chop is a meat. It is used in cooking."
+        "description": "Lamb chops are popularly grilled by marinating the sauce intensively. "
     },
     {
         "id": 15,
         "name": "Lamb neck",
         "category": "meat",
-        "price": 40,
+        "price": 240,
         "image": "lamb_neck.png",
-        "description": "Lamb neck is a meat. It is used in cooking."
+        "description": "Lamb's neck is commonly used to stir-fry or fry with spices."
     },
     {
         "id": 16,
         "name": "Diced beef",
         "category": "meat",
-        "price": 40,
+        "price": 140,
         "image": "diced_beef.png",
-        "description": "Diced beef is a meat. It is used in cooking."
+        "description": "Diced beef is popularly used to stir-fry spicy or garlic fried."
     },
     {
         "id": 17,
         "name": "Diced mutton",
         "category": "meat",
-        "price": 40,
+        "price": 159,
         "image": "diced_mutton.png",
-        "description": "Diced mutton is a meat. It is used in cooking."
+        "description": "Diced mutton is popularly used to stir-fry spicy or garlic fried."
     },
     {
         "id": 18,
         "name": "Pork belly",
         "category": "meat",
-        "price": 40,
+        "price": 349,
         "image": "pork_belly.png",
-        "description": "Pork belly is a meat. It is used in cooking."
+        "description": "Pork belly is commonly used to fry fish sauce, spicy stir fry or pan pork."
     },
     {
         "id": 19,
         "name": "Beef",
         "category": "meat",
-        "price": 40,
+        "price": 345,
         "image": "beef.png",
-        "description": "Beef is a meat. It is used in cooking."
+        "description": "Beef is popularly used to stir-fry spicy or garlic fried."
     },
     {
         "id": 20,
         "name": "Newzealand mussel",
         "category": "seafood",
-        "price": 40,
+        "price": 239,
         "image": "newzealand_mussel.png",
-        "description": "Newzealand mussel is a seafood. It is used in cooking."
+        "description": "Newzealand mussel is popularly blanched or steamed and eaten with seafood dipping sauce."
     },
     {
         "id": 21,
         "name": "Chilean mussel",
         "category": "seafood",
-        "price": 40,
+        "price": 199,
         "image": "chilean_mussel.png",
-        "description": "Chilean mussel is a seafood. It is used in cooking."
+        "description": "Chilean mussel is popularly blanched or steamed and eaten with seafood dipping sauce."
     },
     {
         "id": 22,
         "name": "Abalone",
         "category": "seafood",
-        "price": 40,
+        "price": 159,
         "image": "abalone.png",
-        "description": "Abalone is a seafood. It is used in cooking."
+        "description": "Abalone is popularly blanched or steamed and eaten with seafood dipping sauce."
     },
     {
         "id": 23,
         "name": "Hotate",
         "category": "seafood",
-        "price": 40,
+        "price": 339,
         "image": "hotate.png",
-        "description": "Hotate is a seafood. It is used in cooking."
+        "description": "Hotate is popularly blanched or steamed and eaten with seafood dipping sauce."
     },
     {
         "id": 24,
         "name": "Lobster",
         "category": "seafood",
-        "price": 40,
+        "price": 679,
         "image": "lobster.png",
-        "description": "Lobster is a seafood. It is used in cooking."
+        "description": "Lobster is commonly blanched or steamed with seafood dipping sauce."
     },
     {
         "id": 25,
         "name": "Horse crab",
         "category": "seafood",
-        "price": 40,
+        "price": 349,
         "image": "horse_crab.png",
-        "description": "Horse crab is a seafood. It is used in cooking."
+        "description": "Horse crab is commonly blanched or steamed with seafood dipping sauce."
     },
     {
         "id": 26,
         "name": "Oyster",
         "category": "seafood",
-        "price": 40,
+        "price": 345,
         "image": "oyster.png",
-        "description": "Oyster is a seafood. It is used in cooking."
+        "description": "Oyster is popularly blanched or steamed and eaten with seafood dipping sauce."
     },
     {
         "id": 27,
         "name": "Splendid squid",
         "category": "seafood",
-        "price": 40,
+        "price": 219,
         "image": "splendid_squid.png",
-        "description": "Splendid squid is a seafood. It is used in cooking."
+        "description": "Splendid squid is popularly eaten as sashimi, grilled, yum, and seafood dipping sauce."
     },
     {
         "id": 28,
         "name": "Sardine",
         "category": "seafood",
-        "price": 40,
+        "price": 129,
         "image": "sardine.png",
-        "description": "Sardine is a seafood. It is used in cooking."
+        "description": "Sardines are popularly grilled and poured with sauce."
     },
     {
         "id": 29,
         "name": "White seabass fillet",
         "category": "seafood",
-        "price": 40,
+        "price": 239,
         "image": "white_seabass.png",
-        "description": "White seabass fillet is a seafood. It is used in cooking."
+        "description": "White seabass fillet is popularly fried, fried, tom yum grilled, sashimi."
     }
 ]
