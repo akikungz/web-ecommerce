@@ -3,9 +3,9 @@
         "id": 1,
         "name": "Basil",
         "category": "vegetables",
-        "price": 40,
+        "price": 100,
         "image": "basil.png",
-        "description": "Basil is a herb. It is used in cooking."
+        "description": "100฿ per 1kg"
     },
     {
         "id": 2,
