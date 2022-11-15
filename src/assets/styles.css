@@ -47,9 +47,7 @@ footer {
 
 .footer-container {
     max-width: 1300px;
-    margin: 0;
-    padding: 2em;
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap-reverse;
+    margin: 0 auto;
+    padding: 1em 2em;
+    text-align: center;
 }
