@@ -47,7 +47,7 @@ footer {
 }
 
 .logo {
-    width: 180px;
+    width: 300px;
 }
    
 .footer-container {
@@ -106,7 +106,7 @@ footer {
     min-width: 260px;
 }
    
-.btn {
+.btn2 {
     padding: 18px 40px;
     font-size: 16px;
     color: #f1f1f1;
@@ -120,7 +120,7 @@ footer {
     transition: opacity .3s linear;
 }
    
-.btn:hover{
+.btn2:hover{
     opacity: .7;
 }
 
@@ -140,7 +140,7 @@ footer {
 }
    
 @media screen and (max-width:700px){
-.btn{
+.btn2{
     margin: 0;
     width: 100%;
     margin-top: 20px;
